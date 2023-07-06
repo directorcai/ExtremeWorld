@@ -5,6 +5,7 @@
     "Type": "Normal",
     "Class": "WARRIOR",
     "Resource": "Character/Warrior",
+    "Description": "战士具有强大的近战攻击力，一直活跃在战斗的最前方。强大的力量和充沛的体力让他可以摧毁敌人的一切防御。（推荐新手使用）",
     "InitLevel": 1,
     "Speed": 300
   },
@@ -14,6 +15,7 @@
     "Type": "Normal",
     "Class": "WIZARD",
     "Resource": "Character/Wizard",
+    "Description": "法师是一个远程输出职业。法师可以选择不同的技能和符文，不同系的技能对敌人的伤害不同，适合喜欢远程攻击的玩家使用",
     "InitLevel": 1,
     "Speed": 300
   },
@@ -23,6 +25,7 @@
     "Type": "Normal",
     "Class": "ARCHER",
     "Resource": "Character/Archer",
+    "Description": "弓箭手是一种非常典型的职业，通过远程攻击进行输出。在近战职业过来之前，弓箭手可以远程攻击，让自己在场上立于不败之地。",
     "InitLevel": 1,
     "Speed": 300
   },
